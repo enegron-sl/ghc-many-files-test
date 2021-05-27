@@ -1,1 +1,2 @@
 resource file1 for article1 string1
+
