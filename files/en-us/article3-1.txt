@@ -1,0 +1,2 @@
+article3 file1 string1
+article3 file1 string2
