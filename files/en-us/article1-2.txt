@@ -1,2 +1,0 @@
-article1 file2 string1
-article1 file2 string2
